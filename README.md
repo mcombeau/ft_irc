@@ -6,6 +6,8 @@
 
 A small Internet Relay Chat (IRC) server made in C++.
 
+> This project has been archived in the state it was in at the time of evaluation.
+
 ## Usage
 
 Clone this repository and `cd` into it. To build, use `make`.
